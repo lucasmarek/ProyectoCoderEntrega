@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ProyectoCoderEntrega.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:\\Users\\agust\\Desktop\\ProyectoCoderEntrega\\ProyectoCoderEntrega\\ProyectoCoderEntrega\\AppCoder'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
